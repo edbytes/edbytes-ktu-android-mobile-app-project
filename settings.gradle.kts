@@ -22,6 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MyMobileApp"
+rootProject.name = "Jumia clone"
 include(":app")
- 
